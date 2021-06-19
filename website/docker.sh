@@ -1,1 +1,0 @@
-docker build . -t website && docker run -it -v $PWD:/project website
