@@ -1,1 +1,0 @@
-find ../markdown/ -type f -exec pandoc -o {} menu.md home.md -s -H stylesheet.html

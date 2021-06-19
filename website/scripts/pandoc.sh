@@ -1,1 +1,0 @@
-pandoc -o home.html menu.md home.md -s -H stylesheet.html
