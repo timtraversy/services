@@ -1,8 +1,0 @@
-version: "3.9"
-services:
-  pandoc:
-    build:
-      context: ../
-      dockerfile: ./generator/Dockerfile
-    volumes: 
-      - ../:/website
