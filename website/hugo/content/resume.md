@@ -1,3 +1,9 @@
++++
+title = "Resume"
+
+menu = "main"
++++
+
 # Resume
 
 ## Skills
