@@ -2,7 +2,6 @@ version: "3.9"
 services:
   server:
     image: klakegg/hugo:ext-alpine
-    command: server -D
     volumes:
       - "./hugo:/src"
     ports:
