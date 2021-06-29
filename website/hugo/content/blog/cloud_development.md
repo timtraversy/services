@@ -12,9 +12,8 @@ Then I came across Mark O'Connor's [blog post](https://yieldthought.com/post/318
 
 ## What I Wanted
 
-### Single Source of Truth
-
 Checking Dockerfiles into version control gets you pretty close to this. But 
+
 
 ### Reproducible Environment
 
