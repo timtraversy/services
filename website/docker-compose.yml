@@ -4,5 +4,5 @@ services:
     image: klakegg/hugo:ext-alpine
     volumes:
       - "./hugo:/src"
-    ports:
-      - "1313:1313"
+        #ports:
+        #- "1313:1313"
