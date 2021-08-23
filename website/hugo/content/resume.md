@@ -16,9 +16,10 @@ menu = "main"
 
 ### [Bento](https://bento.net)
 
-Lead iOS Developer + Designer *(February 2020 - Present)*
+iOS & React Native Developer *(February 2020 - Present)*
 
-- Lead iOS development,  shipped numerous features, tracked bugs and crashes in Trello, and laid out infrastructure for React Native transition
+- Lead iOS development, shipped numerous features, and tracked bugs and crashes in Trello and Jira
+- Transitioned the app to a TypeScript React Native project
 - Lead all product design for web and mobile, using Adobe XD to iterate on prototypes with the business team
 - Built CI/CD pipeline for iOS and Android apps using Bitrise and Docker
 
@@ -44,10 +45,9 @@ Flutter Developer *(August 2018 - March 2019)*
 
 Founder, designer, developer
 
-- Designed a web and native application to schedule college courses faster
+- Built a Vue.js web app to schedule college courses faster
 - Advanced to Round Two of the GWU New Venture Competition, one of 100 companies selected out of 160
-- Created a web scraper, first in JS, then Dart, to parse course data from university registrar search pages
-- Built the initial web app using Vue.js with Firebase services.
+- Created a web scraper to parse course data from university registrar search pages
 
 ### [Flutter](http://github.com/coursegnome/)
 
