@@ -1,0 +1,3 @@
+[submodule "website/hugo/public"]
+	path = website/hugo/public
+	url = git@github.com:timtraversy/timtraversy.github.io.git
